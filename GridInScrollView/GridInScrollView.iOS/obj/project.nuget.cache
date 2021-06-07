@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HoruiaA6/C0opO0NYF3UMF3hl5wPpPfUs91XUcPPS+AD9wPUS/M8neENtq2y3ax4vR6rt8xI99GSZtjIe6k/zQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dev Xamarin\\GridInScrollView\\GridInScrollView\\GridInScrollView.iOS\\GridInScrollView.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxime.JCINFORMATIQUE\\.nuget\\packages\\syncfusion.licensing\\19.1.0.66\\syncfusion.licensing.19.1.0.66.nupkg.sha512",
+    "C:\\Users\\Maxime.JCINFORMATIQUE\\.nuget\\packages\\syncfusion.xamarin.core\\19.1.0.66\\syncfusion.xamarin.core.19.1.0.66.nupkg.sha512",
+    "C:\\Users\\Maxime.JCINFORMATIQUE\\.nuget\\packages\\syncfusion.xamarin.sfautocomplete\\19.1.0.66\\syncfusion.xamarin.sfautocomplete.19.1.0.66.nupkg.sha512",
+    "C:\\Users\\Maxime.JCINFORMATIQUE\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Maxime.JCINFORMATIQUE\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Maxime.JCINFORMATIQUE\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

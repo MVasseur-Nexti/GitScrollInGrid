@@ -1,0 +1,58 @@
+@string/appbar_scrolling_view_behavior;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+alpha;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\anim\enterfromleft.xml
+alpha;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\anim\exittoleft.xml
+androidx.appcompat.widget.Toolbar;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\shellcontent.xml
+attr;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\values\attrs.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+cache-path;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\110\res\values\colors.xml
+com.google.android.material.appbar.AppBarLayout;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\tabbar.xml
+corners;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\89\jl\res\drawable\styleinfo.xml
+declare-styleable;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\values\attrs.xml
+external-cache-path;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\bottomtablayout.xml
+ImageView;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\89\jl\res\layout\customizedview1.xml
+item;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\values\styles.xml
+LinearLayout;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\bottomtablayout.xml
+LinearLayout;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\89\jl\res\layout\customizedview1.xml
+paths;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\89\jl\res\layout\sfautocomplete_layout.xml
+resources;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\values\attrs.xml
+resources;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\values\strings.xml
+resources;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\values\styles.xml
+resources;obj\Debug\110\res\values\colors.xml
+resources;obj\Debug\110\res\values\styles.xml
+set;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\anim\enterfromleft.xml
+set;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\anim\enterfromright.xml
+set;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\anim\exittoleft.xml
+set;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\anim\exittoright.xml
+shape;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\89\jl\res\drawable\styleinfo.xml
+string;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\values\strings.xml
+stroke;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\89\jl\res\drawable\styleinfo.xml
+style;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\values\styles.xml
+style;obj\Debug\110\res\values\styles.xml
+TextView;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\89\jl\res\layout\customizedview.xml
+TextView;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\89\jl\res\layout\customizedview1.xml
+translate;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\anim\enterfromleft.xml
+translate;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\anim\enterfromright.xml
+translate;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\anim\exittoleft.xml
+translate;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView.Android\obj\Debug\110\lp\45\jl\res\layout\flyoutcontent.xml

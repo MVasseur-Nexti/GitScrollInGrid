@@ -1,0 +1,14 @@
+D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView\bin\Debug\netstandard2.0\GridInScrollView.deps.json
+D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView\bin\Debug\netstandard2.0\GridInScrollView.dll
+D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView\bin\Debug\netstandard2.0\ref\GridInScrollView.dll
+D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView\bin\Debug\netstandard2.0\GridInScrollView.pdb
+D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView\obj\Debug\netstandard2.0\GridInScrollView.AssemblyInfoInputs.cache
+D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView\obj\Debug\netstandard2.0\GridInScrollView.AssemblyInfo.cs
+D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView\obj\Debug\netstandard2.0\GridInScrollView.csproj.CoreCompileInputs.cache
+D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView\obj\Debug\netstandard2.0\GridInScrollView.dll
+D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView\obj\Debug\netstandard2.0\ref\GridInScrollView.dll
+D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView\obj\Debug\netstandard2.0\GridInScrollView.pdb
+D:\Dev Xamarin\GridInScrollView\GridInScrollView\GridInScrollView\obj\Debug\netstandard2.0\GridInScrollView.csprojAssemblyReference.cache

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GridInScrollView.MainPage">
+
+    <StackLayout>
+        <ScrollView HeightRequest="500" BackgroundColor="Yellow">
+            <Grid x:Name="gridLignes" BackgroundColor="Transparent">
+                <Grid.RowDefinitions>
+
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0" />
+                    <ColumnDefinition Width="5*" />
+                    <ColumnDefinition Width="15*" />
+                    <ColumnDefinition Width="15*" />
+                    <ColumnDefinition Width="10*" />
+                    <ColumnDefinition Width="23*" />
+                    <ColumnDefinition Width="20*" />
+                    <ColumnDefinition Width="7*" />
+                    <ColumnDefinition Width="7*" />
+                    <ColumnDefinition Width="7*" />
+                    <ColumnDefinition Width="7*" />
+                    <ColumnDefinition Width="5*" />
+                </Grid.ColumnDefinitions>
+            </Grid>
+        </ScrollView>
+    </StackLayout>
+
+</ContentPage>
